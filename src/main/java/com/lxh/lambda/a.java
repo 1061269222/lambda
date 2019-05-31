@@ -27,6 +27,7 @@ public class a {
                 System.out.println(str);
 
                 return beans.get(str);
+//                edasa
             }
         }
         return null;
